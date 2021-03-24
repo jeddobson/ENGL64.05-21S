@@ -12,3 +12,6 @@ Repository for 21S instance of ENGL 64.05 "Cultural Analytics"
 - lectures: PDF of lecture slides
 
 <h2>Data and Datasets</h2>
+
+Further Reading (Course Bibliography)
+---------------
