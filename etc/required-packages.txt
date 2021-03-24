@@ -1,0 +1,8 @@
+htrc-feature-reader
+sklearn
+nltk
+gensim
+spacy
+scipy
+numpy
+seaborn
